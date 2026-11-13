@@ -1,0 +1,7 @@
+root,comparator,paired_origins,difference,gained,lost,both_clear,both_fail,exact_mcnemar_p,bootstrap95_low,bootstrap95_high,holm6_adjusted_p
+scratch_g1_r1,fixed,100,0.06,9,3,1,87,0.14599609375,-0.01,0.13,0.72998046875
+scratch_g1_r1,uniform,100,0.06,8,2,2,88,0.109375,0.0,0.12,0.65625
+scratch_g1_r2,fixed,100,-0.02,0,2,2,96,0.5,-0.05,0.0,1
+scratch_g1_r2,uniform,100,-0.02,1,3,1,95,0.625,-0.06,0.02,1
+scratch_g1_r3,fixed,100,0.04,6,2,2,90,0.2890625,-0.01,0.1,1
+scratch_g1_r3,uniform,100,0.04,6,2,2,90,0.2890625,-0.01,0.1,1

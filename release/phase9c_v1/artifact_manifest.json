@@ -1,0 +1,72 @@
+{
+  "bundled_files": {
+    "release/phase9c_v1/data/hp_paired_by_hp.csv": {
+      "bytes": 1817,
+      "sha256": "36213221e443376806c51a7cfcf216f938c6cc97a8a6a95911bbb059b8116d06"
+    },
+    "release/phase9c_v1/data/hp_per_seed.csv": {
+      "bytes": 1692,
+      "sha256": "83509a1b5a40d62ece41476f2508a02594ccbbe27530da6d57386cf175c5a98d"
+    },
+    "release/phase9c_v1/data/learning_curve_mean.svg": {
+      "bytes": 2157,
+      "sha256": "95a2c258b8a8eaccac4e518403c88e393fa2be1b9dcf5cea5a6d94ca41c55b61"
+    },
+    "release/phase9c_v1/data/learning_curve_roots.svg": {
+      "bytes": 5461,
+      "sha256": "58e9507e29894cbc9ff21d3282ee08407d51206938394764c391605df54a1d4e"
+    },
+    "release/phase9c_v1/data/phase5.json": {
+      "bytes": 2210,
+      "sha256": "8a2f6584d037c467025800cca01164c386fc4c819f6493d3d78612ce5a11e75c"
+    },
+    "release/phase9c_v1/data/phase6r_learning.csv": {
+      "bytes": 1674,
+      "sha256": "393f47a2b6755dfd5b8127105c245b67f81a551b65da49219da13ed920562a60"
+    },
+    "release/phase9c_v1/data/phase6r_panels.csv": {
+      "bytes": 1842,
+      "sha256": "841a067f51998330b7984c0f8f71d8d6b7af07e4e11757ba099dc39d7a06da9a"
+    },
+    "release/phase9c_v1/data/phase7h_arms.csv": {
+      "bytes": 1506,
+      "sha256": "0bd958674c74fbd3b072cd364c4c8dec266ec28964d6a20038f174ea82a4249b"
+    },
+    "release/phase9c_v1/data/phase7h_clear_vectors.json": {
+      "bytes": 5272,
+      "sha256": "0ac3933b0c99ac959c41d97af25fcea3ed6498a137bb32a802d61e7a72107d30"
+    },
+    "release/phase9c_v1/data/phase7h_paired.csv": {
+      "bytes": 528,
+      "sha256": "b90f707e474338ac6ac16030f8f0794244d1f0fbcfed419d7a1079d60d46b2e3"
+    },
+    "release/phase9c_v1/data/phase7h_root_mean_sensitivity.csv": {
+      "bytes": 424,
+      "sha256": "f0f7c3adab44702eb213b7efa4649eca46921e19d961eeac4d22d4e6b657ed92"
+    },
+    "release/phase9c_v1/data/phase8_condition_metrics.csv": {
+      "bytes": 1427,
+      "sha256": "e3fa41025e26482f56513389f65e4ab666b97fcd5fc3a11871f99402e3271d3b"
+    },
+    "release/phase9c_v1/data/phase8_joint_histogram.json": {
+      "bytes": 65,
+      "sha256": "45190f17d4bda9a1621505082b14452fafbe16f13fed93d415b6d78203872605"
+    },
+    "release/phase9c_v1/data/phase8_root_metrics.csv": {
+      "bytes": 3553,
+      "sha256": "843fd8a878a3b3b1d641a83760fe9fbc2a3dbe1a88ed74c6408fc4c7c03f6e5e"
+    },
+    "release/phase9c_v1/data/phase8_update32_joint.json": {
+      "bytes": 175,
+      "sha256": "b48ec3350ff7f9608f900e3bb6fccb2f473891b685fdf66b209350a077c2a8dd"
+    },
+    "release/phase9c_v1/data/phase8_update32_paired.csv": {
+      "bytes": 420,
+      "sha256": "8be493b94b9f01a8ac720e3c924fe5fdd6454192f7a309d5ad0c8d83d0808290"
+    },
+    "release/phase9c_v1/reproduce.py": {
+      "bytes": 5593,
+      "sha256": "b1fa8567ba321a91ab11e89dc85d6f9169cb2bc9d09646225c70cf1c508335d0"
+    }
+  }
+}

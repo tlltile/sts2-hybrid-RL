@@ -1,0 +1,102 @@
+{
+  "denominator": 40,
+  "boss_entries": 34,
+  "boss_entry_rate": 0.85,
+  "act1_clears": 3,
+  "clear_rate": 0.075,
+  "conditional_boss_clear_rate": 0.08823529411764706,
+  "clear_wilson95": [
+    0.025836025774588198,
+    0.19864233524310543
+  ],
+  "entry_wilson95": [
+    0.709276756335103,
+    0.9293881228267964
+  ],
+  "conditional_wilson95": [
+    0.030465943674648555,
+    0.22960486562808868
+  ],
+  "statuses": {
+    "pre_boss_death": 6,
+    "boss_death": 31,
+    "act1_clear": 3
+  },
+  "entry_hp": {
+    "n": 34,
+    "mean": 69.20588235294117,
+    "median": 70.0,
+    "minimum": 37,
+    "maximum": 80
+  },
+  "entry_deck_size": {
+    "n": 34,
+    "mean": 16.235294117647058,
+    "median": 16.0,
+    "minimum": 13,
+    "maximum": 18
+  },
+  "entry_upgrade_flags": {
+    "n": 34,
+    "mean": 2.588235294117647,
+    "median": 2.0,
+    "minimum": 0,
+    "maximum": 12
+  },
+  "relic_acquisitions": 39,
+  "retained_acquired_relics": 39,
+  "acquired_relics_by_id": {
+    "TUNING_FORK": 2,
+    "PENDULUM": 2,
+    "SHURIKEN": 1,
+    "CENTENNIAL_PUZZLE": 1,
+    "LETTER_OPENER": 2,
+    "NUNCHAKU": 1,
+    "FROZEN_EGG": 1,
+    "GREMLIN_HORN": 1,
+    "ANCHOR": 1,
+    "VAMBRACE": 1,
+    "ODDLY_SMOOTH_STONE": 2,
+    "MEAL_TICKET": 2,
+    "LASTING_CANDY": 1,
+    "RED_MASK": 1,
+    "BOWLER_HAT": 1,
+    "MERCURY_HOURGLASS": 2,
+    "BELLOWS": 1,
+    "TUNGSTEN_ROD": 1,
+    "POTION_BELT": 1,
+    "WHETSTONE": 1,
+    "ICE_CREAM": 1,
+    "SELF_FORMING_CLAY": 1,
+    "MANGO": 1,
+    "CANDELABRA": 1,
+    "BAG_OF_PREPARATION": 1,
+    "HAPPY_FLOWER": 3,
+    "LUCKY_FYSH": 1,
+    "UNCEASING_TOP": 1,
+    "RAINBOW_RING": 1,
+    "VAJRA": 1,
+    "JUZU_BRACELET": 1
+  },
+  "relic_losses": {},
+  "native_decisions": 6141,
+  "attempt_runtime_seconds": 26.64758639995125,
+  "replay_runtime_seconds": 47.92439850003575,
+  "by_boss": {
+    "setup_ceremonial_beast_boss": {
+      "assigned": 16,
+      "entries": 13,
+      "clears": 3
+    },
+    "setup_the_kin_boss": {
+      "assigned": 10,
+      "entries": 9,
+      "clears": 0
+    },
+    "setup_vantom_boss": {
+      "assigned": 14,
+      "entries": 12,
+      "clears": 0
+    }
+  }
+}
