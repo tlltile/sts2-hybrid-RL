@@ -1,0 +1,48 @@
+{
+  "card": {
+    "1": {
+      "checkpoint_sha256": "e2daeef7ee904cf6299a7d278375cb684ed7c6143b672613ad69b817515806ad",
+      "original_checkpoint_sha256": "afb8def92d8e8a121dc4cf38dc922afe1642a7bfefb4b7c82e876450049b6f86",
+      "path": "checkpoints/card_root_1.pt",
+      "tensor_sha256": "a247d37c4553ac8e628eb9b332474616f5ecd2858f12db0764c958effbaf708c",
+      "update": 32
+    },
+    "2": {
+      "checkpoint_sha256": "f6e6c24b92442ca16cb928fa288a9eb0853860a365e14a6bef3b049304a1a03f",
+      "original_checkpoint_sha256": "4251445d471f606c5aca1f923ea177d8d792889ac2b75ad2a46a0210b41fa682",
+      "path": "checkpoints/card_root_2.pt",
+      "tensor_sha256": "c1407f2a721b3b78408189d3fafa85d89c1a8a05ec8fabd1d6757c69ce2a6a39",
+      "update": 32
+    },
+    "3": {
+      "checkpoint_sha256": "683d841d520d7413637f47320fc42a5868e6894b4d8387ebae2de28c6c87de45",
+      "original_checkpoint_sha256": "a15b1bb532e09f05512d098a3139cbf802f7df72e75661b4f5c8f678254116e3",
+      "path": "checkpoints/card_root_3.pt",
+      "tensor_sha256": "48c45cfdfcf204deb59fed301fbb8e227d52dee8b6088f1116726af600df191d",
+      "update": 32
+    }
+  },
+  "card_model_config": {
+    "candidate_hidden": 64,
+    "card_embedding": 16,
+    "context": 64,
+    "relic_embedding": 8,
+    "skip_hidden": 32
+  },
+  "combat_original_sha256": "3313fae60269dc4c05759eaa0469308a490c036f7826e8c683a1313485aa7081",
+  "combat_path": "checkpoints/combat_v1.zip",
+  "combat_sha256": "77dc2a806d126aa1a60620c70235ff46a26482defa88a4024a449adf05913dd7",
+  "controller_config_sha256": "1480441e87097e0ad9531243c9a85923cdf221abca1cb04223b023545f26a082",
+  "runtime": {
+    "packages": {
+      "gymnasium": "1.4.0",
+      "numpy": "2.5.4",
+      "sb3-contrib": "2.9.2",
+      "stable-baselines3": "2.9.2",
+      "torch": "2.14.0+cu130"
+    },
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python": "3.12.10"
+  },
+  "training_manifest_sha256": "dd2cd2edf7f177f3a83995f429fbd64f86a0bacd0c3b31c263c411a74e7a9458"
+}
